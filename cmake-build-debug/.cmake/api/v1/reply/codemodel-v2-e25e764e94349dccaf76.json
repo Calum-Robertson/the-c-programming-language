@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "the_c_programming_language",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "the_c_programming_language::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-the_c_programming_language-Debug-c93e108fc3642aa7b50f.json",
+					"name" : "the_c_programming_language",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language/cmake-build-debug",
+		"source" : "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

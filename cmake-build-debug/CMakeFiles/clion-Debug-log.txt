@@ -1,0 +1,4 @@
+/Applications/JetBrains/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/JetBrains/apps/CLion/ch-0/231.8109.174/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language" -B "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language/cmake-build-debug

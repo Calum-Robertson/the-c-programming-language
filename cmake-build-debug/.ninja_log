@@ -1,0 +1,4 @@
+# ninja log v5
+0	168	1689861630904701262	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
+0	168	1689861630904700970	CMakeFiles/the_c_programming_language.dir/hello.c.o	eb2404872f641b2f
+168	214	1689861630952093154	the_c_programming_language	9a5fabe30254f271
