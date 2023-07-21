@@ -3,5 +3,6 @@ project(the_c_programming_language C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(the_c_programming_language
-        main.c hello.c)
+add_executable(the_c_programming_language main.c
+        "1.1 Getting Started/Hello.c"
+        "1.2 Variables and Arithmetic Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c" "1.2 Variables and Arithmetic Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c")

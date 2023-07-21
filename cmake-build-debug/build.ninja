@@ -55,11 +55,23 @@ build CMakeFiles/the_c_programming_language.dir/main.c.o: C_COMPILER__the_c_prog
   OBJECT_DIR = CMakeFiles/the_c_programming_language.dir
   OBJECT_FILE_DIR = CMakeFiles/the_c_programming_language.dir
 
-build CMakeFiles/the_c_programming_language.dir/hello.c.o: C_COMPILER__the_c_programming_language_Debug /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding$ Projects/C/the-c-programming-language/the-c-programming-language/hello.c || cmake_object_order_depends_target_the_c_programming_language
-  DEP_FILE = CMakeFiles/the_c_programming_language.dir/hello.c.o.d
+build CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started/Hello.c.o: C_COMPILER__the_c_programming_language_Debug /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding$ Projects/C/the-c-programming-language/the-c-programming-language/1.1$ Getting$ Started/Hello.c || cmake_object_order_depends_target_the_c_programming_language
+  DEP_FILE = CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started/Hello.c.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
   OBJECT_DIR = CMakeFiles/the_c_programming_language.dir
-  OBJECT_FILE_DIR = CMakeFiles/the_c_programming_language.dir
+  OBJECT_FILE_DIR = CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started
+
+build CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o: C_COMPILER__the_c_programming_language_Debug /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding$ Projects/C/the-c-programming-language/the-c-programming-language/1.2$ Variables$ and$ Arithmetic$ Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c || cmake_object_order_depends_target_the_c_programming_language
+  DEP_FILE = CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/the_c_programming_language.dir
+  OBJECT_FILE_DIR = CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile
+
+build CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o: C_COMPILER__the_c_programming_language_Debug /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding$ Projects/C/the-c-programming-language/the-c-programming-language/1.2$ Variables$ and$ Arithmetic$ Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c || cmake_object_order_depends_target_the_c_programming_language
+  DEP_FILE = CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu11
+  OBJECT_DIR = CMakeFiles/the_c_programming_language.dir
+  OBJECT_FILE_DIR = CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile
 
 
 # =============================================================================
@@ -69,7 +81,7 @@ build CMakeFiles/the_c_programming_language.dir/hello.c.o: C_COMPILER__the_c_pro
 #############################################
 # Link the executable the_c_programming_language
 
-build the_c_programming_language: C_EXECUTABLE_LINKER__the_c_programming_language_Debug CMakeFiles/the_c_programming_language.dir/main.c.o CMakeFiles/the_c_programming_language.dir/hello.c.o
+build the_c_programming_language: C_EXECUTABLE_LINKER__the_c_programming_language_Debug CMakeFiles/the_c_programming_language.dir/main.c.o CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started/Hello.c.o CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/the_c_programming_language.dir
   POST_BUILD = :

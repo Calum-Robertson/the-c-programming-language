@@ -1,4 +1,23 @@
 # ninja log v5
-0	168	1689861630904701262	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
-0	168	1689861630904700970	CMakeFiles/the_c_programming_language.dir/hello.c.o	eb2404872f641b2f
-168	214	1689861630952093154	the_c_programming_language	9a5fabe30254f271
+1	155	1689943186299589718	CMakeFiles/the_c_programming_language.dir/hello.c.o	eb2404872f641b2f
+1	19	1689945298707370240	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
+1	22	1689945298711181774	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o	4861cfe787d261c0
+0	61	1689944251185775771	CMakeFiles/the_c_programming_language.dir/FahrenheitCelsiusWhile.c.o	7bcd5ea92cc28d15
+0	30	1689945101356726920	CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started/Hello.c.o	1c1ba437e279f37d
+22	54	1689945298742897113	the_c_programming_language	47329773739e8ea6
+1	41	1689945440865881440	build.ninja	29e2df87edfd89c8
+0	124	1689943604977805799	CMakeFiles/the_c_programming_language.dir/Hello.c.o	177391760025384
+1	30	1689945101356885668	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile.c.o	beacd25807e11f56
+3	125	1689944553088412321	CMakeFiles/the_c_programming_language.dir/1.1/Hello.c.o	593adee5ee721441
+2	141	1689945998443111006	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
+0	141	1689945998443143839	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o	4861cfe787d261c0
+1	141	1689945998443108256	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o	95caf668a5f1d7a9
+2	141	1689945998443136506	CMakeFiles/the_c_programming_language.dir/1.1_Getting_Started/Hello.c.o	1c1ba437e279f37d
+141	187	1689945998491462422	the_c_programming_language	c6cb16b0d5917f53
+1	27	1689946060072692510	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
+1	29	1689946060075185811	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o	95caf668a5f1d7a9
+29	64	1689946060109847904	the_c_programming_language	c6cb16b0d5917f53
+1	36	1689946139246727033	CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o	95caf668a5f1d7a9
+36	72	1689946139283487557	the_c_programming_language	c6cb16b0d5917f53
+0	26	1689946154030448908	CMakeFiles/the_c_programming_language.dir/main.c.o	37fa9e913882a406
+26	59	1689946154064160597	the_c_programming_language	c6cb16b0d5917f53
