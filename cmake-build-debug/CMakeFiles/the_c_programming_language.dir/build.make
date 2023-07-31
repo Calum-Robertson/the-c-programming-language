@@ -153,6 +153,20 @@ CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCels
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.3 The For Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c" -o CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.s
 
+CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o: CMakeFiles/the_c_programming_language.dir/flags.make
+CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o: /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/1.4\ Symbolic\ Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c
+CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o: CMakeFiles/the_c_programming_language.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o -MF CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o.d -o CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o -c "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.4 Symbolic Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c"
+
+CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.4 Symbolic Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c" > CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i
+
+CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.4 Symbolic Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c" -o CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s
+
 # Object files for target the_c_programming_language
 the_c_programming_language_OBJECTS = \
 "CMakeFiles/the_c_programming_language.dir/main.c.o" \
@@ -160,7 +174,8 @@ the_c_programming_language_OBJECTS = \
 "CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c.o" \
 "CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o" \
 "CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.c.o" \
-"CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.o"
+"CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.o" \
+"CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o"
 
 # External object files for target the_c_programming_language
 the_c_programming_language_EXTERNAL_OBJECTS =
@@ -171,9 +186,10 @@ the_c_programming_language: CMakeFiles/the_c_programming_language.dir/1.2_Variab
 the_c_programming_language: CMakeFiles/the_c_programming_language.dir/1.2_Variables_and_Arithmetic_Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c.o
 the_c_programming_language: CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.c.o
 the_c_programming_language: CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.o
+the_c_programming_language: CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o
 the_c_programming_language: CMakeFiles/the_c_programming_language.dir/build.make
 the_c_programming_language: CMakeFiles/the_c_programming_language.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable the_c_programming_language"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable the_c_programming_language"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/the_c_programming_language.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

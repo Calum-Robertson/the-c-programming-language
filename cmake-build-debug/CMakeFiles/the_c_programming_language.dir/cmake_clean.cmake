@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.c.o.d"
   "CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.o"
   "CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.o.d"
+  "CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o"
+  "CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o.d"
   "CMakeFiles/the_c_programming_language.dir/main.c.o"
   "CMakeFiles/the_c_programming_language.dir/main.c.o.d"
   "the_c_programming_language"

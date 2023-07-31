@@ -3,6 +3,7 @@
 #include "1.2 Variables and Arithmetic Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.h"
 #include "1.3 The For Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.h"
 #include "1.3 The For Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.h"
+#include "1.4 Symbolic Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.h"
 
 int main(){
 
@@ -15,5 +16,8 @@ int main(){
 
 //  1.3 The For Statement
 //  fahrenheitToCelsiusFor();
-  fahrenheitToCelsiusForReverse();
+//  fahrenheitToCelsiusForReverse();
+
+  //1.4 Symbolic Constants
+  fahrenheitToCelsiusForConstants();
 }

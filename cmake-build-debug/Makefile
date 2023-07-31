@@ -249,6 +249,30 @@ the_c_programming_language/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/the_c_programming_language.dir/build.make CMakeFiles/the_c_programming_language.dir/1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.s
 .PHONY : 1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c.s
 
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.o: 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.o
+
+# target to build an object file
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/the_c_programming_language.dir/build.make CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.o
+
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.i: 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.i
+
+# target to preprocess a source file
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/the_c_programming_language.dir/build.make CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.i
+
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.s: 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.s
+
+# target to generate assembly for a file
+1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/the_c_programming_language.dir/build.make CMakeFiles/the_c_programming_language.dir/1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s
+.PHONY : 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -297,6 +321,9 @@ help:
 	@echo "... 1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.o"
 	@echo "... 1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.i"
 	@echo "... 1.3_The_For_Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.s"
+	@echo "... 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.o"
+	@echo "... 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.i"
+	@echo "... 1.4_Symbolic_Constants/FahrenheitToCelsiusForConstants/FahrenheitToCelsiusForConstants.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
