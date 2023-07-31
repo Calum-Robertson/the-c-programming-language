@@ -1,4 +1,4 @@
-# Install script for directory: /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language
+# Install script for directory: /Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/the-c-programming-language/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

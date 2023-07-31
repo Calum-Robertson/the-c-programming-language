@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="the_c_programming_language"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="the_c_programming_language">
+				<Option output="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/the_c_programming_language" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 the_c_programming_language"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="the_c_programming_language/fast">
+				<Option output="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug/the_c_programming_language" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 the_c_programming_language/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding\ Projects/C/the-c-programming-language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.1 Getting Started/Hello.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.1 Getting Started/Hello.h">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.2 Variables and Arithmetic Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.2 Variables and Arithmetic Expressions/CelsiusFahrenheitWhile/CelsiusFahrenheitWhile.h">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.2 Variables and Arithmetic Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.2 Variables and Arithmetic Expressions/FahrenheitCelsiusWhile/FahrenheitCelsiusWhile.h">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.3 The For Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.3 The For Statement/FahrenheitToCelsiusFor/FahrenheitToCelsiusFor.h">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.3 The For Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/1.3 The For Statement/FahrenheitToCelsiusForReverse/FahrenheitToCelsiusForReverse.h">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/main.c">
+			<Option target="the_c_programming_language"/>
+		</Unit>
+		<Unit filename="/Users/calumrobertson/Library/CloudStorage/OneDrive-Personal/Coding Projects/C/the-c-programming-language/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
